@@ -1,6 +1,6 @@
 # Heart Disease Risk Prediction - MLOps Assignment 01 instructions
 
-![CI](https://github.com/vankudrv/heart-disease-mlops/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Ankit-Bukshete/heart-disease-mlops/actions/workflows/ci.yml/badge.svg)
 
 End-to-end ML project (BITS Pilani, AIMLCZG523): predict the presence of heart disease from
 patient health data using the UCI Heart Disease (Cleveland) dataset, then track, test, containerise,
